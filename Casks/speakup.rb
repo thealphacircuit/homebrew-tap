@@ -1,6 +1,6 @@
 cask "speakup" do
-  version "1.0.1"
-  sha256 "665ea77faa2ebcc8ee41106a121c16acfe20e80bdcc1f6a2a7c7bcb4a9a6e2cb"
+  version "1.0.2"
+  sha256 "4911e85b43efed8f9625297b234eb4167700246cb0a56b7b6e6a0931322c664b"
 
   url "https://github.com/thealphacircuit/speakup-releases/releases/download/v#{version}/SpeakUp-#{version}.dmg",
       verified: "github.com/thealphacircuit/speakup-releases/"
