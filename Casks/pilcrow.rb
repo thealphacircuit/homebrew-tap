@@ -1,6 +1,6 @@
 cask "pilcrow" do
-  version "1.0"
-  sha256 "450d42dbcbcd947eb49152e290314393f679c506a1ac769a06ad7ec1762f64f2"
+  version "1.0.1"
+  sha256 "f35e8420c593f43cd8e3acba071b7c9fa7c3a0eb962e6a686b6b8a1ca6ce67d8"
 
   url "https://github.com/thealphacircuit/pilcrow-releases/releases/download/v#{version}/Pilcrow-#{version}.dmg",
       verified: "github.com/thealphacircuit/pilcrow-releases/"
